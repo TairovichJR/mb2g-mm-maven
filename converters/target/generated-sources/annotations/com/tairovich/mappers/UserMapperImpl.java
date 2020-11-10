@@ -6,7 +6,7 @@ import com.tairovich.domain.UserCommand;
 /*
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2020-11-09T20:44:39-0500",
+    date = "2020-11-09T20:58:16-0500",
     comments = "version: 1.2.0.Final, compiler: javac, environment: Java 11.0.9 (Oracle Corporation)"
 )
 */
